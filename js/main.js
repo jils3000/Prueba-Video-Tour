@@ -120,11 +120,11 @@ define([
                 
                 GX.params = this.config;
                 if(!GX.params.youtubeId){
-                  GX.params.youtubeId = "IgYzLi8PnLw#t=22";
+                  GX.params.youtubeId = "IgYzLi8PnLw";
                   console.log("Default video");
                 }
                 if(!GX.params.gpxURI){
-                  GX.params.gpxURI = "https://drive.google.com/file/d/0B1q9WHFbtUeJNGIxVDVMRTBWaGs/view?usp=sharing";
+                  GX.params.gpxURI = "https://dl.dropboxusercontent.com/u/186739070/via-verde.gpx";
                   console.log("Default route");
                 }
                 
